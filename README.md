@@ -1,6 +1,12 @@
 # Nalrang.github.io
-## 금주 개발 진행 상황
+# 금주 개발 진행 상황
+## 2019.10.01
 
+get, post, put, delete
+
+Rest API
+
+## 2019.09.24
 개발 내용  
 1. 로그인 화면
 
